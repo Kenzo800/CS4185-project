@@ -146,7 +146,7 @@ def main():
 	# plt.hist(img.ravel(),10,[0,256]); plt.show()
 	# gray_img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 	# cv.imshow("Gray Image", gray_img)
-	# cv.waitKey()
+	# cv.waitKey(0)
 
 
 	print("1: Image retrieval demo")
